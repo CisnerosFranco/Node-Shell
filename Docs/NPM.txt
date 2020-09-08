@@ -1,0 +1,5 @@
+NPM ( Node Package Manager ) es el sistema de gestion
+de paquetes por defecto de Node.js
+Adems es uno de los respositorios de librerias
+y plugins mas grandes de todo el mundo
+que  crece cada dia.
